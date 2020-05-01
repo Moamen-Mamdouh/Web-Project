@@ -1,18 +1,17 @@
-body
-{
-    background-image:url('background login bage.png');
+body {
+    background-image: url('img\\background login bage.png');
 }
-legend
-{
-    font-size:30px;
-    color:#EEE
+
+legend {
+    font-size: 30px;
+    color: #EEE
 }
-lable
-{
-    color:#EEE;
-    font-size:bold
+
+lable {
+    color: #EEE;
+    font-size: bold
 }
-.Gender
-{
-    background-color:#166800
+
+.Gender {
+    background-color: #166800
 }
